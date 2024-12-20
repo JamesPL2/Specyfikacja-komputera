@@ -1,2 +1,3 @@
 # Specyfikacja-komputera
-Stworzyłem prostu projekt który pokazuje specyfikacje komputera/laptopa. Zezwalam na pełną modyfikację i udostępnianie projektu.
+
+Projekt niestety błędnie pokazuje pamięc karty graficznej obecnie nie wiem jak to naprawić. Reszta jest dobrze. Testowane na Windows
